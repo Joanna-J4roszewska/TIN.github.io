@@ -43,7 +43,7 @@ header img {
     body {
       background-color: rgb(250, 232, 239);
     }
-  }
+  
 
 nav ul {
     list-style: none;
@@ -112,6 +112,7 @@ footer {
 p {
     line-height: 1.6;
     font-size: 18px;
+}
 }
 
 
